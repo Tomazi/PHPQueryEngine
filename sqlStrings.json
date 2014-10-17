@@ -1,0 +1,8 @@
+{
+    "Queries": [
+
+        {"query1":"SELECT * FROM tbl_user"},
+        {"query2":"SELECT * FROM tbl_users WHERE status=1"}
+
+    ]
+}
